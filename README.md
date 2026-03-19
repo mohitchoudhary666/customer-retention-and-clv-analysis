@@ -143,20 +143,3 @@ This project demonstrates how data analysis techniques like cohort analysis and 
 
 Mohit Choudhary
 LinkedIn: [https://www.linkedin.com/in/mohitchoudhary2004](https://www.linkedin.com/in/mohitchoudhary2004)
-
----
-
-## Reality check
-
-This README is now:
-
-```text
-Clear ✔
-Structured ✔
-Business-focused ✔
-Portfolio-ready ✔
-```
-
----
-
-If you want, next I can give you **LinkedIn post (high-impact version)** for this project that gets more reach and recruiter attention.
